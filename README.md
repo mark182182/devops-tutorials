@@ -16,6 +16,8 @@ https://docs.docker.com/install/linux/linux-postinstall/)
 * Command cheat sheet: [Docker CLI](https://www.docker.com/sites/default/files/Docker_CheatSheet_08.09.2016_0.pdf) | [Dockerfile](http://design.jboss.org/redhatdeveloper/marketing/docker_cheatsheet/cheatsheet/images/docker_cheatsheet_r3v2.pdf) | [Command usage in Dockerfile](https://devhints.io/dockerfile)
 * [Dockerizing a Node.js web app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 * [Using MySQL in Docker](https://www.youtube.com/watch?v=-LrK9VWXfac)
+
+## AWS:
 * [AMI](https://www.youtube.com/watch?v=vlE3yTmz6So)
 * [Elastic BeanStalk](https://www.youtube.com/watch?v=96DJ2Og90hU)
 * [S3](https://www.youtube.com/watch?v=LfBn5Y1X0vE)
