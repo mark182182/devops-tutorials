@@ -11,3 +11,4 @@ Links to Java related tutorial videos/articles.
 - ServiceImp: implementation of the service
 - Controller: communication using endpoints
 - Modell: entity + db settings
+- DTO: getters and setters for the entity
